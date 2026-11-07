@@ -1,0 +1,22 @@
+{
+  "project": "cdc073b7-90dd-4965-b9b9-a530bbef0861",
+  "project_revision": 3,
+  "assets": {
+    "luxury-estate-masterplan.glb": {
+      "sha256": "adb28c5990d3f35dee89a677ff55f989bf2061d1d5dad967e948357db2450359",
+      "bytes": 686808
+    },
+    "luxury-estate-masterplan.blend": {
+      "sha256": "c3c436815cdcbd69f999b792d5b45c93066708f61de8164ed0b34c4bafe63e3f",
+      "bytes": 5155200
+    },
+    "real-3d-aerial-preview.png": {
+      "sha256": "df2be17451dacbb89201570173f8b753da68d26a84dcab553bd151e93f7c5d79",
+      "bytes": 519349
+    },
+    "luxury-estate-masterplan.blend.xz": {
+      "sha256": "e926b498dc3343a5f2549d3f2a03cb8a18ccd17cb81b564c551a54a353b2f916",
+      "bytes": 263108
+    }
+  }
+}

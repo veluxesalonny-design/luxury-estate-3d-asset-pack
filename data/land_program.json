@@ -1,0 +1,68 @@
+{
+  "title": "30,000 sqm luxury estate concept / 44 lots + common infrastructure",
+  "site": {
+    "area_sqm": 30000,
+    "assumed_width_m": 200,
+    "assumed_depth_m": 150,
+    "coordinate_system": "local metres, not georeferenced"
+  },
+  "plots": {
+    "total_count": 44,
+    "total_area_sqm": 23000,
+    "breakdown": [
+      {
+        "size_sqm": 1000,
+        "count": 6,
+        "subtotal_sqm": 6000
+      },
+      {
+        "size_sqm": 500,
+        "count": 28,
+        "subtotal_sqm": 14000
+      },
+      {
+        "size_sqm": 300,
+        "count": 10,
+        "subtotal_sqm": 3000
+      }
+    ]
+  },
+  "shared": {
+    "total_area_sqm": 7000,
+    "roads_and_walkways_sqm": 3400,
+    "remaining_amenities_sqm": 3600,
+    "conceptual_amenity_budget_sqm": {
+      "landscaped_park": 1200,
+      "clubhouse_pool_lounge": 700,
+      "playground_outdoor_fitness": 500,
+      "visitor_parking": 400,
+      "utilities": 350,
+      "drainage_stormwater": 250,
+      "gate_security_arrival": 200
+    },
+    "road_geometry": [
+      {
+        "kind": "boulevard",
+        "x": 95,
+        "y": 0,
+        "width": 10,
+        "depth": 150
+      },
+      {
+        "kind": "cross_street",
+        "x": 0,
+        "y": 65,
+        "width": 200,
+        "depth": 5
+      },
+      {
+        "kind": "cross_street",
+        "x": 0,
+        "y": 120,
+        "width": 200,
+        "depth": 5
+      }
+    ]
+  },
+  "status": "Conceptual only. Survey, drainage, setbacks, actual plot geometry and approvals still required. Buildings are illustrative, not a proposed legal subdivision."
+}

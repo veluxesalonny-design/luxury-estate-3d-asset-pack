@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0a1423" />
+  <title>Luxury Estate — 3D Spatial Masterplan</title>
+</head>
+<body>
+  <main id="canvas" aria-label="Interactive estate spatial model"></main>
+  <header class="hud">
+    <div class="eyebrow">PRIVATE ESTATE • CONCEPTUAL 3D</div>
+    <h1>Luxury Estate Masterplan</h1>
+    <p>30,000 m² · 44 plots · 7,000 m² shared infrastructure</p>
+    <div class="toolbar">
+      <button id="reset">Reset view</button>
+      <label><input id="lots" type="checkbox" checked> Plot surfaces</label>
+      <label><input id="amenities" type="checkbox" checked> Amenities</label>
+    </div>
+    <div id="status" role="status">Loading spatial 3D model…</div>
+    <small id="selection">Drag to orbit · wheel/pinch to zoom · right-drag to pan</small>
+  </header>
+  <footer class="foot">Illustrative architecture • Not survey or planning approval</footer>
+  <script type="module" src="/web/src/main.js"></script>
+</body>
+</html>
